@@ -1,0 +1,42 @@
+{
+    "Ax": {
+        "center_dac": 38.04107066132265,
+        "center_signal": 0.0008394453772189278,
+        "high_dac": 38.0668261723447,
+        "high_resolving_power": 2431.1405862765923,
+        "high_signal": 0.00015377281917128418,
+        "low_dac": 38.01531515030061,
+        "low_resolving_power": 1955.6521603796734,
+        "low_signal": 0.00015695086415790067,
+        "points": "QhfprLlYaVBCF+7WuU0MZkIX8/+5VnilQhf5KLlBNaFCF/5RuUoGKUIYA3q5STkNQhgIpLkUWPdCGA3NN6zF9kIYEvY55dPzQhgYHzpBppdCGB1JOk+W+kIYInI6UVawQhgnmzpbMGRCGCzEOlmoyEIYMe06VFwSQhg3FzpN9GpCGDxAOjXF70IYQWk55/2WQhhGkrfvqIpCGEu7uSt/uUIYUOW5OhdJQhhWDrlAmSlCGFs3uUqUX0IYYGC5SOngQhhliblcJFhCGGqzuUWjUA==",
+        "resolution": 700.7172853451308
+    },
+    "H4": {
+        "center_dac": 38.04119691382766,
+        "center_signal": 0.08783366461111945,
+        "high_dac": 38.073391302605216,
+        "high_resolving_power": 1507.5971634919522,
+        "high_signal": 0.01691788642664642,
+        "low_dac": 38.00900252505011,
+        "low_resolving_power": 1520.7395590826247,
+        "low_signal": 0.01741209441980955,
+        "points": "QhfprLietGdCF+7WuKmI0UIX8/+4jKe8Qhf5KLiGZVxCF/5ROdLvd0IYA3o7nyIdQhgIpDyAE3BCGA3NPRGei0IYEvY9dcLNQhgYHz2dQu1CGB1JPavwJEIYInI9sLsaQhgnmz2y3jZCGCzEPbN1iUIYMe09s7dUQhg3Fz2t8aVCGDxAPZrCxkIYQWk9dTOOQhhGkj0QPpNCGEu7PHjAW0IYUOU7sKllQhhWDjsBty5CGFs3Ojx99EIYYGA5N++lQhhliTbnNotCGGqzuIYKhA==",
+        "resolution": 492.3422102914949
+    },
+    "L4": {
+        "center_dac": 38.04094440881764,
+        "center_signal": 7.045247979877667e-05,
+        "high_dac": 38.067836192384775,
+        "high_resolving_power": 1752.787399409224,
+        "high_signal": 1.382600736014728e-05,
+        "low_dac": 38.01405262525051,
+        "low_resolving_power": 1882.0714543648082,
+        "low_signal": 1.3650132124024449e-05,
+        "points": "QhfprDKJcF9CF+7WAAAAAEIX8/8yiXBfQhf5KDMJcF9CF/5RMwlwX0IYA3o0ziiPQhgIpDZX0nZCGA3NN04oj0IYEvY38bnkQhgYHzhpZ5ZCGB1JOIvJq0IYInI4kqqbQhgnmziTeMNCGCzEOJOBWkIYMe04kg/8Qhg3FziFi/FCGDxAOF8R40IYQWk4Ag6WQhhGkjcue6lCGEu7Nk4oj0IYUOU10E5QQhhWDjTWv5VCGFs3NIDZWUIYYGAz8ISnQhhliTMJcF9CGGqzMwlwXw==",
+        "resolution": 586.2031764560459
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H4",
+    "reference_isotope": "Ar40"
+}
