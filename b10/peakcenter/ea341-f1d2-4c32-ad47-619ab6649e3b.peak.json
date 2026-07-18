@@ -1,0 +1,42 @@
+{
+    "Ax": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QhfNk7lVfS5CF9LUuUf3oEIX2Ba5VDx4QhfdWLlNgalCF+KZuU8/NEIX59u5ViQRQhftHblcicFCF/JeuVESMkIX96C5ZOaVQhf84rlKIjZCGAIjuVtmnEIYB2W5R8amQhgMp7lbARJCGBHouVS2tkIYFyq5R/MYQhgcbLlg12VCGCGtuVcj2UIYJu+5YVwKQhgsMblP3nFCGDFyuVgN+EIYNrS5QaB0Qhg79rlMZcxCGEE3uUWr7UIYRnm5W+pjQhhLu7lYv3ZCGFD8uWIG5EIYVj65a/VaQhhbgLluRcM=",
+        "resolution": null
+    },
+    "H4": {
+        "center_dac": 38.04366398797589,
+        "center_signal": 0.0026332649765742674,
+        "high_dac": 38.07546699398792,
+        "high_resolving_power": 1713.2833721142401,
+        "high_signal": 0.0005216180945206547,
+        "low_dac": 38.01186098196387,
+        "low_resolving_power": 1573.3467789554438,
+        "low_signal": 0.0005037037209874739,
+        "points": "QhfNk7ifHDJCF9LUuK4S2UIX2Ba4rUqGQhfdWLiUPJZCF+KZuKUxJEIX59u4oZcwQhftHbi02F5CF/JeuLhYfkIX96C40a11Qhf84rifEeVCGAIjuI1JP0IYB2U43vIJQhgMpzoSXd1CGBHoOqEKY0IYFyo6/wnvQhgcbDscdFFCGCGtOyUk50IYJu87KePHQhgsMTsrJU5CGDFyOyuejkIYNrQ7LErVQhg79jskAlBCGEE3OwvqaUIYRnk6v99sQhhLuzo3MLlCGFD8OWnFkUIYVj44DDzfQhhbgLhgZVY=",
+        "resolution": 516.8685651665226
+    },
+    "L4": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QhfNkwAAAABCF9LUAAAAAEIX2BYzCXBfQhfdWAAAAABCF+KZAAAAAEIX59syiXBfQhftHQAAAABCF/JeAAAAAEIX96AzCXBfQhf84jMJcF9CGAIjMwlwX0IYB2UziXBfQhgMpzQ8+oNCGBHoNX1nMEIYFyo2Nok/QhgcbDajvuFCGCGtNraJP0IYJu82xQgZQhgsMTapHUVCGDFyNrEq20IYNrQ2v6m1Qhg79ja1/85CGEE3Nn1nMEIYRnk16hNiQhhLuzUrzHdCGFD8NKvMd0IYVj4zziiPQhhbgDOJcF8=",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H4",
+    "reference_isotope": "Ar40"
+}
